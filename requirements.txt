@@ -30,4 +30,4 @@ subprocess-tee==0.4.2
 typing_extensions==4.15.0
 wcmatch==10.0
 yamllint==1.37.1
-zipp==3.21.0
+zipp==3.23.0
